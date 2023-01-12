@@ -1,0 +1,429 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MushiMushi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MushiMushi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\01095-tmb.png",
+      "PackagePath": "staticwebassets\\images\\01095-tmb.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\a-1.jpg",
+      "PackagePath": "staticwebassets\\images\\a-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\a-2.jpg",
+      "PackagePath": "staticwebassets\\images\\a-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\award.png",
+      "PackagePath": "staticwebassets\\images\\award.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\bg.jpg",
+      "PackagePath": "staticwebassets\\images\\bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\books-stack-of-three.png",
+      "PackagePath": "staticwebassets\\images\\books-stack-of-three.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\c-1.jpg",
+      "PackagePath": "staticwebassets\\images\\c-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\c-2.jpg",
+      "PackagePath": "staticwebassets\\images\\c-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\c-3.jpg",
+      "PackagePath": "staticwebassets\\images\\c-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\c-4.jpg",
+      "PackagePath": "staticwebassets\\images\\c-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\c-5.jpg",
+      "PackagePath": "staticwebassets\\images\\c-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\c-6.jpg",
+      "PackagePath": "staticwebassets\\images\\c-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\client.png",
+      "PackagePath": "staticwebassets\\images\\client.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\comp.jpg",
+      "PackagePath": "staticwebassets\\images\\comp.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\download.png",
+      "PackagePath": "staticwebassets\\images\\download.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\event-img.jpg",
+      "PackagePath": "staticwebassets\\images\\event-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\gree.jpg",
+      "PackagePath": "staticwebassets\\images\\gree.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\itigo.jpg",
+      "PackagePath": "staticwebassets\\images\\itigo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\kannryou.jpg",
+      "PackagePath": "staticwebassets\\images\\kannryou.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\kannryou2.jpg",
+      "PackagePath": "staticwebassets\\images\\kannryou2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\link.png",
+      "PackagePath": "staticwebassets\\images\\link.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\menu.png",
+      "PackagePath": "staticwebassets\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\nasu.jpg",
+      "PackagePath": "staticwebassets\\images\\nasu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\next.png",
+      "PackagePath": "staticwebassets\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\ninzin.jpg",
+      "PackagePath": "staticwebassets\\images\\ninzin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\pi-man.jpg",
+      "PackagePath": "staticwebassets\\images\\pi-man.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\prev.png",
+      "PackagePath": "staticwebassets\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\retasu.jpg",
+      "PackagePath": "staticwebassets\\images\\retasu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\side-img.png",
+      "PackagePath": "staticwebassets\\images\\side-img.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\study.png",
+      "PackagePath": "staticwebassets\\images\\study.png"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\images\\suica.jpg",
+      "PackagePath": "staticwebassets\\images\\suica.jpg"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\sora6\\Documents\\GitHub\\TeamG\\develop\\MushiMushi\\MushiMushi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MushiMushi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MushiMushi.props",
+      "PackagePath": "build\\MushiMushi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MushiMushi.props",
+      "PackagePath": "buildMultiTargeting\\MushiMushi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MushiMushi.props",
+      "PackagePath": "buildTransitive\\MushiMushi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

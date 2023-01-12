@@ -18,7 +18,71 @@ namespace MushiMushi.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult contact()
+        {
+            return View();
+        }
+        public IActionResult account_info()
+        {
+            return View();
+        }
+        public IActionResult contact_comp()
+        {
+            return View();
+        }
+        public IActionResult douga_kanri()
+        {
+            return View();
+        }
+        public IActionResult illust_list()
+        {
+            return View();
+        }
+        public IActionResult illust_toukou()
+        {
+            return View();
+        }
+        public IActionResult login()
+        {
+            return View();
+        }
+        public IActionResult nouka_account()
+        {
+            return View();
+        }
+        public IActionResult nouka_sinki()
+        {
+            return View();
+        }
+        public IActionResult nouka_top()
+        {
+            return View();
+        }
+        public IActionResult nouka_toukou()
+        {
+            return View();
+        }
+        public IActionResult nouka_toukou_comp()
+        {
+            return View();
+        }
+        public IActionResult password_sinki()
+        {
+            return View();
+        }
+        public IActionResult toukou_illust_list()
+        {
+            return View();
+        }
+        public IActionResult toukou_videolist()
+        {
+            return View();
+        }
+        public IActionResult videolist()
+        {
+            return View();
+        }
+        public IActionResult kodomo_sityou()
         {
             return View();
         }

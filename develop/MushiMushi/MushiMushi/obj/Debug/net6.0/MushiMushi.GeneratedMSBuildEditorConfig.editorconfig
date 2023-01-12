@@ -16,12 +16,76 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\sora6\Documents\GitHub\TeamG\develop\MushiMushi\MushiMushi
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/account_info.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxhY2NvdW50X2luZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/contact_comp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxjb250YWN0X2NvbXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/douga_kanri.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxkb3VnYV9rYW5yaS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/illust_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbGx1c3RfbGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/illust_toukou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbGx1c3RfdG91a291LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/kodomo_sityou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxrb2RvbW9fc2l0eW91LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/nouka_account.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxub3VrYV9hY2NvdW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/nouka_sinki.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxub3VrYV9zaW5raS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/nouka_top.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxub3VrYV90b3AuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/nouka_toukou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxub3VrYV90b3Vrb3UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/nouka_toukou_comp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxub3VrYV90b3Vrb3VfY29tcC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/password_sinki.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxwYXNzd29yZF9zaW5raS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/toukou_illust_list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0b3Vrb3VfaWxsdXN0X2xpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/toukou_videolist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx0b3Vrb3VfdmlkZW9saXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Home/videolist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVx2aWRlb2xpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/sora6/Documents/GitHub/TeamG/develop/MushiMushi/MushiMushi/Views/Shared/Error.cshtml]
