@@ -86,6 +86,10 @@ namespace MushiMushi.Controllers
         {
             return View();
         }
+        public IActionResult douga_papurika()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
