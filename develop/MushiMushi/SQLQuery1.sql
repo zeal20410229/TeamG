@@ -1,0 +1,6 @@
+﻿CREATE TABLE member
+(
+member_id INT NOT NULL PRIMARY KEY,
+email VARCHAR(MAX) NOT NULL,
+password VARCHAR(MAX) NOT NULL
+)
