@@ -1,0 +1,7 @@
+C:\Users\sora6\Documents\GitHub\TeamG\develop\MushiMushi\MushiMushi\obj\Release\net6.0\PubTmp\Out\MushiMushi.exe
+C:\Users\sora6\Documents\GitHub\TeamG\develop\MushiMushi\MushiMushi\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\sora6\Documents\GitHub\TeamG\develop\MushiMushi\MushiMushi\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\sora6\Documents\GitHub\TeamG\develop\MushiMushi\MushiMushi\obj\Release\net6.0\PubTmp\Out\MushiMushi.dll
+C:\Users\sora6\Documents\GitHub\TeamG\develop\MushiMushi\MushiMushi\obj\Release\net6.0\PubTmp\Out\MushiMushi.deps.json
+C:\Users\sora6\Documents\GitHub\TeamG\develop\MushiMushi\MushiMushi\obj\Release\net6.0\PubTmp\Out\MushiMushi.runtimeconfig.json
+C:\Users\sora6\Documents\GitHub\TeamG\develop\MushiMushi\MushiMushi\obj\Release\net6.0\PubTmp\Out\MushiMushi.pdb
